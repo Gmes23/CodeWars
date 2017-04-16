@@ -38,10 +38,17 @@ function printerError(s) {
     this has a value let errors be equal to the new array length, else let errors equal 0.
     Finally we turn errors and total to strings but add '/' in between them as the answer
     wants us to return the result as a fraction string like '3/56'  and not a decimal result
-    like  'o.0324234234'.
+    like  '0.0324234234'.
     */
     var errorArray = s.match(/[N-Z]/gi);
-    let errors = (errorArray) ? errorArray.length : 0;
     var total = s.length
+    let errors = (errorArray) ? errorArray.length : 0;
     return (errors + '/' + total).toString();
+}
+
+
+// best solution
+// however if u get null for match() this will return an error and not pass the test
+function printerError(s) {
+    return s.match(/[^a-m]/g).length + "/" + s.length;
 }
