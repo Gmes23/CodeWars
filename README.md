@@ -1,2 +1,2 @@
 # CodeWars_Javascript
-Code I wrote for Codewars Javscript
+Code I wrote for Codewars Javascript
