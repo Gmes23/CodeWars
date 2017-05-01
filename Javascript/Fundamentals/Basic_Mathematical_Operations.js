@@ -5,7 +5,7 @@
  numbers after applying the chosen operation.
 
 
-// Best solution
+Best solutions
 function basicOp(operation, value1, value2) {
     switch (operation) {
         case '+':
@@ -20,7 +20,7 @@ function basicOp(operation, value1, value2) {
             return 0;
     }
 }
-// end solution
+
 
 function basicOp(operation, value1, value2)
 {
@@ -34,3 +34,6 @@ function basicOp(operation, value1, value2)
         return value1 * value2;
     }
 }
+
+
+xxx
