@@ -5,7 +5,7 @@
  numbers after applying the chosen operation.
 
 
-Best solutions
+//Best solutions
 function basicOp(operation, value1, value2) {
     switch (operation) {
         case '+':
@@ -36,4 +36,4 @@ function basicOp(operation, value1, value2)
 }
 
 
-xxx
+// xxx
