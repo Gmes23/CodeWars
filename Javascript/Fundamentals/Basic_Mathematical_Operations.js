@@ -37,8 +37,7 @@ function basicOp(operation, value1, value2)
 
 
 
-BlogPost 
-here is some text DEWD.here is some text DEWD.here is 
+BlogPost here is some text DEWD.here is some text DEWD.here is 
 here is some text DEWD.here is some text DEWD.
 
 here is some text DEWD.
