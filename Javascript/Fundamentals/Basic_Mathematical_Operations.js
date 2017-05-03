@@ -1,3 +1,4 @@
+Problem
 
  Your task is to create a function - basic_op().
  The function should take three arguments - operation(string/char),
@@ -35,14 +36,13 @@ function basicOp(operation, value1, value2)
     }
 }
 
+ProblemEnd
 
 
-BlogPost here is some text DEWD.here is some text DEWD.here is 
+BlogPost 
+here is some text DEWD.here is some text DEWD.here is 
 here is some text DEWD.here is some text DEWD.
-
-here is some text DEWD.
-
 here is some text DEWD.
 here is some text DEWD.
-
+here is some text DEWD.
 EndBlog
