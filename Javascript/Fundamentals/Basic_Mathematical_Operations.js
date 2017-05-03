@@ -1,12 +1,14 @@
-Problem
+BlogPost 
 
  Your task is to create a function - basic_op().
  The function should take three arguments - operation(string/char),
  value1(number), value2(number). The function should return result of 
  numbers after applying the chosen operation.
 
+EndBlog
 
-// Best solutions
+
+bestSolutions
 function basicOp(operation, value1, value2) {
     switch (operation) {
         case '+':
@@ -36,13 +38,4 @@ function basicOp(operation, value1, value2)
     }
 }
 
-ProblemEnd
-
-
-BlogPost 
-here is some text DEWD.here is some text DEWD.here is 
-here is some text DEWD.here is some text DEWD.
-here is some text DEWD.
-here is some text DEWD.
-here is some text DEWD.
-EndBlog
+endSolutions
